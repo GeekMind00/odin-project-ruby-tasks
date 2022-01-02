@@ -10,6 +10,6 @@ class StockPicker
         end
       end
     end
-    result = [].push(buy, sell)
+    [].push(buy, sell)
   end
 end
